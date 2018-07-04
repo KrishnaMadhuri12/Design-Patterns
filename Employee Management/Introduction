@@ -1,4 +1,5 @@
 The project Employee Management is implemented as an example of DAO Design Pattern and Singleton Design Pattern
+
 Classes: 
 	Employee - Pojo class holding the attributes and setter, getters
 	EmployeeClient - The client class fires the implemented methods.
